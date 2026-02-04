@@ -1,0 +1,16 @@
+🧠 STOFIX AI
+An intelligent, voice-controlled desktop assistant built with Python. STOFIX allows you to automate tasks, launch applications, and compose emails entirely through voice commands.
+
+✨ Features
+
+Voice Control: Interact with your computer hands-free using Google Speech Recognition.
+
+Smart Email Automation: Dictate emails directly to Gmail (Recipient -> Subject -> Body).
+
+Custom App Launcher: Add your own executables to open via voice commands.
+
+Professional UI: Built with CustomTkinter for a modern, rounded, and sleek interface.
+
+Visual Feedback: Real-time sound bar animations when the assistant is listening or speaking.
+
+Hotkeys: Use F9 to speak and F10 to stop listening.
